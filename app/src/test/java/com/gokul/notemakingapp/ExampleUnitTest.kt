@@ -1,4 +1,4 @@
-package com.gokul.bookkeepingapp
+package com.gokul.notemakingapp
 
 import org.junit.Test
 
